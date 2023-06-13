@@ -1,0 +1,7 @@
+{
+  "name": "leccion-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
